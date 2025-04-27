@@ -1,6 +1,6 @@
 # Google Maps Scraper
 
-This is a Python-based Google Maps scraper designed for educational purposes. It allows you to extract data from Google Maps using Python.
+This is a Python-based Google Maps scrapper designed for educational purposes. It allows you to extract data from Google Maps using Python.
 
 ## Features
 
@@ -10,14 +10,14 @@ This is a Python-based Google Maps scraper designed for educational purposes. It
 
 ## Prerequisites
 
-*   Python 3.x
+*   Python 3.10.x
 *   pip (Python package installer)
 
 ## Installation
 
 1.  Clone the repository:
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/waqas-yousaf/Google-Maps-Scrapper
     ```
 2.  Navigate to the project directory:
     ```bash
