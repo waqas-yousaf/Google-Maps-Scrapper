@@ -21,7 +21,7 @@ This is a Python-based Google Maps scrapper designed for educational purposes. I
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd <project_directory>
+    cd Google-Maps-Scrapper
     ```
 3.  Install the required packages:
     ```bash
