@@ -1,0 +1,5 @@
+selenium
+pandas
+openpyxl
+fake_useragent
+undetected-chromedriver
