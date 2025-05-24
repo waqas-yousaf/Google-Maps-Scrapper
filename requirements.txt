@@ -1,5 +1,6 @@
-selenium
+undetected-chromedriver>=3.5.5
+selenium>=4.10.0
+openpyxl>=3.1.2
+requests>=2.31.0
 pandas
-openpyxl
 fake_useragent
-undetected-chromedriver

@@ -102,7 +102,7 @@ def search_and_scrape(driver, search_term, niche):
         time.sleep(random.uniform(2, 3))
 
         try:
-            name = driver.find_element(By.XPATH, "//h1[contains(@class,'fontHeadlineLarge')]").text
+            name = driver.find_element(By.XPATH, "//h1[contains(@class,'DUwDvf')]").text
         except:
             name = ''
 
